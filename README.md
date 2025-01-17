@@ -1,6 +1,4 @@
-Here’s a sample README.md file for your code. It explains the purpose of your project, provides setup instructions, and details its usage.
-
-Zomato Weather Union App
+**Zomato Weather Union App**
 
 A simple Go application that interacts with an external weather API to fetch weather data based on latitude and longitude inputs.
 
